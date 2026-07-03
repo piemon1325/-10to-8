@@ -1,1 +1,5 @@
-# -10to-8
+dec = 12345 #เลขฐาน 10
+conv_to = oct(dec) #เลขฐาน 10= 8
+dec = (conv_to)
+print (dec)
+print("วันชนะ สิงห์ชมภู")
